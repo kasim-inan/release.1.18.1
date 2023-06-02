@@ -1,3 +1,7 @@
 
 streamlit==1.18.1
 praat-parselmouth
+parselmouth
+numpy
+pandas
+plotly
